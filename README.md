@@ -17,7 +17,7 @@ These are actually stereo jacks, but on the line i/o the ring terminals are not 
 ![front](img/front.png)
 
 
-!top PCB](img/top_pcb.png)
+![top PCB](img/top_pcb.png)
 
 
 ![bottom PCB](img/bottom_pcb.png)
