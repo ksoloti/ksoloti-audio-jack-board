@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,LINE_IN_OUT,PinHeader_1x06_P2.54mm_Vertical,103.53,-94.02,90.0,top
+J2,HP_OUT,PinHeader_1x03_P2.54mm_Vertical,152.907,-92.496,0.0,top
+J3,IN_L,Jack_6.35mm_Neutrik_NRJ6HF_Horizontal_no_screwhole,85.28,-70.75,90.0,top
+J4,IN_R,Jack_6.35mm_Neutrik_NRJ6HF_Horizontal_no_screwhole,103.28,-70.75,90.0,top
+J5,OUT_L,Jack_6.35mm_Neutrik_NRJ6HF_Horizontal_no_screwhole,121.28,-70.75,90.0,top
+J6,OUT_R,Jack_6.35mm_Neutrik_NRJ6HF_Horizontal_no_screwhole,139.28,-70.75,90.0,top
+J7,HP_OUT,Jack_6.35mm_Neutrik_NRJ6HF_Horizontal_no_screwhole,157.28,-70.75,90.0,top
+J8,IN_L_VOL,PinHeader_1x03_P2.54mm_Vertical,84.01,-91.48,90.0,top
+J9,IN_R_VOL,PinHeader_1x03_P2.54mm_Vertical,84.025,-94.02,90.0,top
+J10,OUT_L_VOL,PinHeader_1x03_P2.54mm_Vertical,126.035,-94.02,90.0,top
+J11,OUT_R_VOL,PinHeader_1x03_P2.54mm_Vertical,126.035,-91.48,90.0,top
+J12,HP_VOL,PinHeader_2x03_P2.54mm_Vertical,159.55,-92.511,180.0,top
