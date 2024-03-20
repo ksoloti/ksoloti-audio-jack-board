@@ -9,3 +9,15 @@ Five 6.35mm audio jacks with headers to interface with the Ksoloti Core's line i
 Board dimensions: 100mm * 34mm
 Jacks used: NRJ6HF
 These are actually stereo jacks, but on the line i/o the ring terminals are not connected to anything. You could rewire them to get stereo line i/o or anything else.
+
+
+!(img/top.png)
+
+
+!(img/front.png)
+
+
+!(img/top_pcb.png)
+
+
+!(img/bottom_pcb.png)
