@@ -56,9 +56,10 @@
         }
       ],
       "drc_exclusions": [
-        "courtyards_overlap|130859999|92220001|0754c9fe-afe2-4f74-b927-40f4468dea66|990d7b59-f6d6-45af-a1dd-4dbd3dab2e83",
-        "courtyards_overlap|88834999|92220001|35e59430-b5f4-4ba9-9827-89654114e621|72db15a2-721f-44e3-b922-a00bbf05d1a4",
-        "courtyards_overlap|90104999|92220001|35e59430-b5f4-4ba9-9827-89654114e621|72db15a2-721f-44e3-b922-a00bbf05d1a4"
+        "courtyards_overlap|130359999|92220001|0754c9fe-afe2-4f74-b927-40f4468dea66|990d7b59-f6d6-45af-a1dd-4dbd3dab2e83",
+        "courtyards_overlap|165590149|65892726|17da1c66-046f-4a13-8ed9-807927043c33|76b1372e-d33b-4e29-b1c1-f2142771d42c",
+        "courtyards_overlap|76901049|65247812|274c5941-33c7-4da7-a7e9-1964067ddf2b|330d21e3-02be-4c5c-a81a-fa016b064f46",
+        "courtyards_overlap|88334999|92220001|35e59430-b5f4-4ba9-9827-89654114e621|72db15a2-721f-44e3-b922-a00bbf05d1a4"
       ],
       "meta": {
         "version": 2
@@ -381,7 +382,18 @@
     "meta": {
       "version": 2
     },
-    "net_colors": null
+    "net_colors": {
+      "IN_L_PIN": "rgb(161, 255, 0)",
+      "IN_R_PIN": "rgb(161, 255, 0)",
+      "IN_SGND_PIN": "rgb(130, 130, 130)",
+      "LHP": "rgb(255, 240, 0)",
+      "MONOOUT": "rgb(180, 180, 180)",
+      "Net-(J4-PadTN)": "rgb(3, 155, 0)",
+      "OUT_L_PIN": "rgb(0, 236, 255)",
+      "OUT_R_PIN": "rgb(0, 236, 255)",
+      "OUT_SGND_PIN": "rgb(130, 130, 130)",
+      "RHP": "rgb(255, 240, 0)"
+    }
   },
   "pcbnew": {
     "last_paths": {
