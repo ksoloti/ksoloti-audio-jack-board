@@ -11,13 +11,13 @@ Jacks used: NRJ6HF
 These are actually stereo jacks, but on the line i/o the ring terminals are not connected to anything. You could rewire them to get stereo line i/o or anything else.
 
 
-!(img/top.png)
+![top](img/top.png)
 
 
-!(img/front.png)
+![front](img/front.png)
 
 
-!(img/top_pcb.png)
+!top PCB](img/top_pcb.png)
 
 
-!(img/bottom_pcb.png)
+![bottom PCB](img/bottom_pcb.png)
